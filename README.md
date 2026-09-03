@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi there 👋 Sou a Nathally Lopes
 
-<!--
-**nathallylopes/nathallylopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia e Segurança da Informação  
+🔐 Interessada em Cibersegurança e Segurança de Redes  
+👩‍💻 Participante do Programa Mulher Digital  
+🌐 Conhecimentos em Redes de Computadores e Cisco Packet Tracer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre Mim
+
+Sou estudante de **Engenharia** e **Segurança da Informação**, com interesse
+em **Cibersegurança, Redes de Computadores e Segurança da Informação**.
+
+Atualmente, faço parte do **Programa Mulher Digital**, onde venho
+desenvolvendo meus conhecimentos em segurança cibernética e tecnologia.
+
+Tenho conhecimentos em **Redes de Computadores, Cisco Packet Tracer e
+fundamentos de Segurança da Informação**, e estou constantemente buscando
+aprimorar minhas habilidades por meio de estudos e projetos práticos.
+
+---
+
+## 🎯 Áreas de Interesse
+
+- 🔐 Cibersegurança
+- 🌐 Redes de Computadores
+- 🛡️ Segurança da Informação
+- 🔎 SOC
+- 🔑 Gestão de Acessos
+- 🖥️ Segurança de Redes
+
+---
+
+## 📚 Certificações & Cursos
+
+| Instituição | Curso |
+|---|---|
+| Cisco Networking Academy | Introduction to Cybersecurity |
+| Cisco Networking Academy | Networking Basics |
+| Cisco Networking Academy | Introduction to Packet Tracer |
+| Programa Mulher Digital | Cibersegurança |
