@@ -1,4 +1,4 @@
-## Hi there  Sou a Nathally Lopes
+## Olá👋 Sou a Nathally Lopes
 
  Estudante de Engenharia e Segurança da Informação  
  Interessada em Cibersegurança e Segurança de Redes  
@@ -54,11 +54,3 @@ aprimorar minhas habilidades por meio de estudos e projetos práticos.
 
 
 
-## 📌 Atualmente estudando
-
-- Segurança da Informação
-- Redes de Computadores
-- Cibersegurança
-- Python
-- SQL
-- Análise de dados
