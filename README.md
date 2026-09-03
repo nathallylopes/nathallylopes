@@ -36,7 +36,7 @@ aprimorar minhas habilidades por meio de estudos e projetos práticos.
 
 -  Cibersegurança
 -  Redes de Computadores
--  Segurança da Informação
+-  Help desk
 -  SOC
 -  Gestão de Acessos
 -  Segurança de Redes
