@@ -1,12 +1,5 @@
 ## Olá👋 Sou a Nathally Lopes
 
- Estudante de Engenharia e Segurança da Informação  
- Interessada em Cibersegurança e Segurança de Redes  
- Participante do Programa Mulher Digital  
- Conhecimentos em Redes de Computadores e Cisco Packet Tracer  
-
----
-
 ##  Sobre Mim
 
 Sou estudante de **Engenharia** e **Segurança da Informação**, com interesse
