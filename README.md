@@ -1,4 +1,18 @@
 ## Olá👋 Sou a Nathally Lopes
+<div align="center">
+  <a href="www.linkedin.com/in/nathallylopessalomao">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:nathallylopeseng@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://wa.me/5521978894119">
+  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+----
 
 ##  Sobre Mim
 
