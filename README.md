@@ -1,13 +1,13 @@
-## Hi there 👋 Sou a Nathally Lopes
+## Hi there  Sou a Nathally Lopes
 
-🎓 Estudante de Engenharia e Segurança da Informação  
-🔐 Interessada em Cibersegurança e Segurança de Redes  
-👩‍💻 Participante do Programa Mulher Digital  
-🌐 Conhecimentos em Redes de Computadores e Cisco Packet Tracer  
+ Estudante de Engenharia e Segurança da Informação  
+ Interessada em Cibersegurança e Segurança de Redes  
+ Participante do Programa Mulher Digital  
+ Conhecimentos em Redes de Computadores e Cisco Packet Tracer  
 
 ---
 
-## 🧑‍💻 Sobre Mim
+##  Sobre Mim
 
 Sou estudante de **Engenharia** e **Segurança da Informação**, com interesse
 em **Cibersegurança, Redes de Computadores e Segurança da Informação**.
@@ -21,18 +21,18 @@ aprimorar minhas habilidades por meio de estudos e projetos práticos.
 
 ---
 
-## 🎯 Áreas de Interesse
+##  Áreas de Interesse
 
-- 🔐 Cibersegurança
-- 🌐 Redes de Computadores
-- 🛡️ Segurança da Informação
-- 🔎 SOC
-- 🔑 Gestão de Acessos
-- 🖥️ Segurança de Redes
+-  Cibersegurança
+-  Redes de Computadores
+-  Segurança da Informação
+-  SOC
+-  Gestão de Acessos
+-  Segurança de Redes
 
 ---
 
-## 📚 Certificações & Cursos
+##  Certificações & Cursos
 
 | Instituição | Curso |
 |---|---|
@@ -43,7 +43,7 @@ aprimorar minhas habilidades por meio de estudos e projetos práticos.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 ### Redes & Cibersegurança
 
@@ -51,13 +51,8 @@ aprimorar minhas habilidades por meio de estudos e projetos práticos.
 ![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
-### Dados & Programação
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
 
 ## 📌 Atualmente estudando
 
