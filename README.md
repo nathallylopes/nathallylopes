@@ -50,6 +50,7 @@ aprimorar minhas habilidades por meio de estudos e projetos práticos.
 | Cisco Networking Academy | Introduction to Cybersecurity |
 | Cisco Networking Academy | Networking Basics |
 | Cisco Networking Academy | Introduction to Packet Tracer |
+| Cisco Networking Academy |Network Devices and Initial Configuration |
 | Programa Mulher Digital | Cibersegurança |
 
 ---
